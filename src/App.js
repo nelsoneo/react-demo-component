@@ -5,7 +5,9 @@ const App = ()=> {
    <>
     <h1>Hello World</h1>
     <ul>
-      <ItemList />
+      <ItemList>Item 1</ItemList>
+      <ItemList>Item 2</ItemList>
+      <ItemList>Item 3</ItemList>
     </ul>
    </>
   )
